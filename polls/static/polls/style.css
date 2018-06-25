@@ -1,0 +1,16 @@
+
+/* 2 Change the text color of links in lists.
+ Go to /polls/templates/polls/index.html to
+ add the style sheet */
+
+li a {
+    color: green;
+}
+
+/* 5 Add the background */
+
+body {
+    background: white url("images/background.png");
+}
+
+/* 6 Now customize the admin page in /polls/admin.py */
