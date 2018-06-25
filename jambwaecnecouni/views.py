@@ -1,5 +1,5 @@
 from django.http import HttpResponse
-
+# my passa
 import random
 
 def hello_world(request):
